@@ -8,6 +8,4 @@ output:
   
 ---
 
-```{r setup, include=FALSE}
-## this is unintuitive
-```
+
